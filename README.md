@@ -1,7 +1,5 @@
-# food-website
- Website to display food products
- 
-# 🍽️ [Restaurant Name] - Food Website 🌮
+
+# 🍽️ Food Website 🌮
 
 ## Description
 
